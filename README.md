@@ -5,7 +5,7 @@
 - <kbd>![Windows Key][newwinlogo]</kbd> + <kbd>v</kbd> opens clipboard history. Use it to copy and paste multiple items.
 - <kbd>![Windows Key][newwinlogo]</kbd> + <kbd>G</kbd> opens game bar. use it to capture screenshots.
 - Control youtube in splitscreen effectively using Autohotkey-[Instructions](https://github.com/a-1an/YT-AHK-script-)
-- 
+- Use ```> explorer <filepath> ``` to open a file location from cmd.
 
 
 ## Resources
